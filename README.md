@@ -26,13 +26,7 @@ Custom Command &amp; Control Framework
 - Clone the Repository
 - git clone https://github.com/L1337Xi/C2xTR.git
 - cd C2xTRr asha
-- mujeeb
-- rasha
-- ,ujeeb'
-- rasha
-- mujeeb
-- i wanna go anmd dieeeeeeeeeeeee
-- everybody just get yourself haNGED
+
 
 
 
