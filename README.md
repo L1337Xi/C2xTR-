@@ -22,6 +22,20 @@ Custom Command &amp; Control Framework
 - **`c2xi.py`** – The main C2 controller script (run on the attacker's server).
 - **`C2xTR.py`** – The implant/agent to be deployed on each target system.
 
-- ## 🛠️ git clone https://github.com/yourusername/C2xTR.git
-cd C2xTR
+- ## 🛠️ Installation
+- Clone the Repository
+- git clone https://github.com/L1337Xi/C2xTR.git
+- cd C2xTRr asha
+- mujeeb
+- rasha
+- ,ujeeb'
+- rasha
+- mujeeb
+- i wanna go anmd dieeeeeeeeeeeee
+- everybody just get yourself haNGED
+
+-  
+
+-  🖥️ Start the C2 Controller
+-  You will be presented with a command-line menu to manage connections.
 
