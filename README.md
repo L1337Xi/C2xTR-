@@ -34,6 +34,8 @@ Custom Command &amp; Control Framework
 - i wanna go anmd dieeeeeeeeeeeee
 - everybody just get yourself haNGED
 
+
+
 -  
 
 -  🖥️ Start the C2 Controller
