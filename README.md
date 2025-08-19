@@ -25,7 +25,7 @@ Custom Command &amp; Control Framework
 - ## 🛠️ Installation
 - Clone the Repository
 - git clone https://github.com/L1337Xi/C2xTR.git
-- cd C2xTRr asha
+- cd C2xTRr
 
 
 
