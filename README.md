@@ -1,4 +1,4 @@
-# cada C2 Server
+# Cada C2 Server
 
 A command and control (C2) bind shell implementation for educational and authorized security testing purposes.
 
