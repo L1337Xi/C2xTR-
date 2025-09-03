@@ -8,7 +8,7 @@ This software is provided for **educational purposes only**. The author is not r
 
 ## 📝 License
 
-Copyright (c) 2025 Aswajith J (L1337Xi). All rights reserved.
+Copyright (c) 2025 (L1337Xi). All rights reserved.
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
@@ -30,8 +30,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/L1337Xi/CadaXc2.git
-   cd CadaXc2
+   git clone https://github.com/L1337Xi/Daemonix.git
+   cd Daemonix
 
 ## 📋 Prerequisites
 
