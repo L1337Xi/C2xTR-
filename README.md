@@ -28,5 +28,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/1337-c2-bind-shell.git
-cd 1337-c2-bind-shell
+git clone https://github.com/L1337Xi/CadaXc2.git
+
