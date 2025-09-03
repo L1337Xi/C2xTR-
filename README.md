@@ -33,8 +33,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
    git clone https://github.com/L1337Xi/CadaXc2.git
    cd CadaXc2
 
-
-
 ## 📋 Prerequisites
 
 - Python 3.6 or higher
