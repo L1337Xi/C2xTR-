@@ -1,4 +1,4 @@
-# Cada C2 Server
+# Daemonix C2 Server
 
 A command and control (C2) bind shell implementation for educational and authorized security testing purposes.
 
