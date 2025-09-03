@@ -12,23 +12,32 @@ Copyright (c) 2025 Aswajith J (L1337Xi). All rights reserved.
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🚀 Features
+## ✨ Features
 
-- Target management (add, list, remove)
-- Interactive shell sessions
-- Simultaneous connection to multiple targets
-- Cross-platform compatibility
+- 🎯 **Target Management**: Add, list, and remove targets with ease
+- 🖥️ **Interactive Shell**: Full interactive terminal sessions
+- 🔄 **Multi-Target Support**: Connect to multiple targets simultaneously
+- 🎨 **Beautiful Interface**: Color-coded output with intuitive menus
+- 📱 **Cross-Platform**: Works on Linux, Windows, and macOS
+- ⚡ **Lightweight**: Minimal dependencies, fast execution
 
 ## 📋 Prerequisites
 
 - Python 3.6+
 - colorama library
 
-## 🔧 Installation
+## 🛠️ Installation
 
-1. Clone the repository:
-```bash
-git clone https://github.com/L1337Xi/CadaXc2.git
-cd CadaXc2
-python3 cadaX.py
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/L1337Xi/CadaXc2.git
+   cd CadaXc2
+
+
+
+## 📋 Prerequisites
+
+- Python 3.6 or higher
+- `colorama` library
+
 
