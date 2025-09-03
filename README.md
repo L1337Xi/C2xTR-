@@ -1,37 +1,32 @@
-# C2xTR
-Custom Command &amp; Control Framework
-# ⚔️ C2xTR – Command & Control Framework
+# cada C2 Server
 
-**C2xTR** is a custom-built, Python-based Command and Control (C2) framework designed for red team operations, offensive security labs, and post-exploitation simulation. It allows security professionals and enthusiasts to manage multiple reverse shell sessions across different target machines, execute commands interactively, and simulate real-world adversary behaviors.
+A command and control (C2) bind shell implementation for educational and authorized security testing purposes.
 
----
+## ⚠️ Disclaimer
 
-## 📌 Features
+This software is provided for **educational purposes only**. The author is not responsible for any misuse of this tool. Unauthorized access to computer systems is illegal and punishable by law. Use only on systems you own or have explicit permission to test.
 
-- 🔄 Connect to multiple compromised machines simultaneously
-- 💻 Interactive shell for each target or all at once
-- 🧠 Multi-threaded architecture for efficient communication
-- 🔒 Simple socket-based secure communication
-- 📂 Add/remove/list targets dynamically
-- 🔎 Target shell command execution with output handling
+## 📝 License
 
----
+Copyright (c) 2025 Aswajith J (L1337Xi). All rights reserved.
 
-## 🧱 Architecture Overview
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-- **`c2xi.py`** – The main C2 controller script (run on the attacker's server).
-- **`C2xTR.py`** – The implant/agent to be deployed on each target system.
+## 🚀 Features
 
-- ## 🛠️ Installation
-- Clone the Repository
-- git clone https://github.com/L1337Xi/C2xTR.git
-- cd C2xTRr
+- Target management (add, list, remove)
+- Interactive shell sessions
+- Simultaneous connection to multiple targets
+- Cross-platform compatibility
 
+## 📋 Prerequisites
 
+- Python 3.6+
+- colorama library
 
+## 🔧 Installation
 
--  
-
--  🖥️ Start the C2 Controller
--  You will be presented with a command-line menu to manage connections.
-
+1. Clone the repository:
+```bash
+git clone https://github.com/your-username/1337-c2-bind-shell.git
+cd 1337-c2-bind-shell
