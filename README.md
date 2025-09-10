@@ -38,4 +38,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Python 3.6 or higher
 - `colorama` library
 
+## 🧱 Architecture Overview
+- **`daemonix.py`** – The main C2 controller script (which runs on the attacker's server)
+- 
+- 
+
+
+
 
