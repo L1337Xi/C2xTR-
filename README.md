@@ -18,7 +18,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - 🖥️ **Interactive Shell**: Full interactive terminal sessions
 - 🔄 **Multi-Target Support**: Connect to multiple targets simultaneously
 - 🎨 **Beautiful Interface**: Color-coded output with intuitive menus
-- 📱 **Cross-Platform**: Works on Linux, Windows, and macOS
+- 📱 **Works on**:  Linux
 - ⚡ **Lightweight**: Minimal dependencies, fast execution
 
 ## 📋 Prerequisites
@@ -32,6 +32,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
    ```bash
    git clone https://github.com/L1337Xi/Daemonix.git
    cd Daemonix
+   python daemonix.py
 
 ## 📋 Prerequisites
 
